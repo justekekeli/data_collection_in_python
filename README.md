@@ -17,4 +17,5 @@ I collect data about wine (name,ratings, notes (as description), wine type from 
 6. Renaming notes into description
 
 ### PHASE 3 : DATA INGESTION IN AZURE SQL DATABASE
-
+The database schema I created is the following :
+![AZURE SCHEMA](wine.drawio.png)
